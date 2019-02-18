@@ -22,7 +22,7 @@ xing_link:
 facebook_link:
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"#URL#">TESTER test</a>"
+footer_left: "Made with <i class=\"fa fa-heart\"></i>"
 footer_right: "&lt;/&gt; on <a href=\" \">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
