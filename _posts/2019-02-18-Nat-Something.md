@@ -16,7 +16,7 @@ https://drive.google.com/open?id=1Pj43h_a6YJrTwl2-Mierivc8mePdeJFL
 
 
 <figure>
-    <figcaption>Listen to the T-Rex:</figcaption>
+    <figcaption>Session Upload Test:</figcaption>
     <audio
         controls
         src="C:\Git\carte-noire\assets\181217_0140.MP3">
