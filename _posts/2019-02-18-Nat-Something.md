@@ -6,8 +6,8 @@ summary:    Nat Something Preliminary Post
 categories: D&D
 thumbnail: D&D
 tags:
- - thumbnails
- - carte noire
+ - audio  
+ - practice
 ---
 
 Preemptive efforts for creating host for D&D Audio
