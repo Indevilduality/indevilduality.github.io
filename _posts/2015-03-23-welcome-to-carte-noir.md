@@ -2,10 +2,10 @@
 layout:     post
 title:      Welcome to Carte Noire
 date:       2015-03-23 15:31:19
-author:     Jacob Tomlinson
-summary:    Carte Noire is a dark blog theme for Jekyll focusing on a clear reading experience.
+author:     
+summary:    TESTING TESTING
 categories: jekyll
-thumbnail:  heart
+thumbnail:  spade
 tags:
  - welcome
  - to
@@ -15,7 +15,7 @@ tags:
 
 Welcome to Carte Noire.
 
-Carte Noire began as a new theme for [my personal blog][1], but has now taken
+Carte Noire began as a new theme for TESTER TESTER, but has now taken
 on a life of its own as a free theme for Jekyll.
 
 The theme has been designed with simplicity and readability in mind. It makes
@@ -25,4 +25,4 @@ but with the hosting and maintenance simplicity of Jekyll.
 
 Please use/copy/share Carte Noire!
 
-[1]: http://www.jacobtomlinson.co.uk/
+
