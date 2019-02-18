@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Using thumbnails
+title:      Nat Something Preliminary Post
 date:       2019-02-18 12:32:18
-summary:    Using thumbnails in your Carte Noire articles.
+summary:    Nat Something Preliminary Post
 categories: D&D
 thumbnail: D&D
 tags:
