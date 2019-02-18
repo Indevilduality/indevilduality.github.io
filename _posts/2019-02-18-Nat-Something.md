@@ -14,9 +14,13 @@ Preemptive efforts for creating host for D&D Audio
 
 https://drive.google.com/open?id=1Pj43h_a6YJrTwl2-Mierivc8mePdeJFL
 
-<iframe 
-  frameborder="0" 
-  width="400"     
-  height="200"
-  src="https://drive.google.com/open?id=1Pj43h_a6YJrTwl2-Mierivc8mePdeJFL">    
-</iframe>
+
+<figure>
+    <figcaption>Listen to the T-Rex:</figcaption>
+    <audio
+        controls
+        src="C:\Git\carte-noire\assets\181217_0140.MP3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
