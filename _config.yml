@@ -1,5 +1,5 @@
 # Site settings
-title: "Carte Noire"
+title: "Nat. Something"
 email: jacob@jacobtomlinson.co.uk
 description: "A dark blog theme for Jekyll."
 baseurl: ""
@@ -9,6 +9,7 @@ title_description: "There once was a man named Gold Roger, who was King of the P
 My fortune is yours for the taking, but you'll have to find it first. I left everything I own in One Piece.
 
 Ever since, pirates from all over the world set sail for the Grand Line, searching for One Piece, the treasure that would make their dreams come true!"
+
 title_image: /assets/d20.png
 google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
