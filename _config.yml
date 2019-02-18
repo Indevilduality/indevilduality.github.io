@@ -12,7 +12,7 @@ Ever since, pirates from all over the world set sail for the Grand Line, searchi
 
 title_image: /assets/d20.png
 google_analytics: "UA-20365477-4"
-disqus_account: cartenoire
+disqus_account: macabreangelix
 github_repository: https://github.com/jacobtomlinson/carte-noire
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
@@ -29,7 +29,6 @@ xing_link:
 facebook_link:
 
 # Footer
-
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
